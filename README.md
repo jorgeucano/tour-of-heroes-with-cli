@@ -37,7 +37,17 @@ With this command the CLI :
  - create a server 
  - run the app
 
--- step-01 --
+-- end step-01 --
 
-2 - Create a Hero
+-- init step-02 --
 
+2 - Create view of heroes
+
+-- end step-02 --
+
+-- init step-03 --
+
+Create a Hero Class
+Change the view for the new class of hero
+
+-- end step-03 --
