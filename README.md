@@ -37,3 +37,7 @@ With this command the CLI :
  - create a server 
  - run the app
 
+-- step-01 --
+
+2 - Create a Hero
+
